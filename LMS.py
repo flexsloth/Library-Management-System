@@ -5,7 +5,7 @@ from tkinter.ttk import Combobox
 from tkinter.ttk import Treeview
 import datetime
 
-b1,b2,b3,b4,cur,con,e1,e2,e3,e4,e5,i,ps=None,None,None,None,None,None,None,None,None,None,None,None,None
+b1,b2,b3,b4,cur,con,e1,e2,e3,e4,e5,i=None,None,None,None,None,None,None,None,None,None,None,None
 window,win=None,None
 com1d,com1m,com1y,com2d,com2m,com2y=None,None,None,None,None,None
 
